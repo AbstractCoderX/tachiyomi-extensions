@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 ext {
-    appName = 'Tachiyomi: MangaHost'
-    pkgNameSuffix = 'pt.mangahost'
-    extClass = '.MangaHost'
-    extVersionCode = 6
+    appName = 'Tachiyomi: PsychoPlay'
+    pkgNameSuffix = 'en.psychoplay'
+    extClass = '.PsychoPlay'
+    extVersionCode = 1
     libVersion = '1.2'
 }
 
